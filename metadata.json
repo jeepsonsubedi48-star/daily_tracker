@@ -1,0 +1,5 @@
+{
+  "name": "My Day Tracker",
+  "description": "A daily routine tracking application with progress monitoring and task management.",
+  "requestFramePermissions": []
+}
